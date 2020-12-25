@@ -1,0 +1,12 @@
+body {
+	background-color: #ffc107 !important;
+}
+.container{
+	display: grid;
+	overflow: hidden;
+	place-items: center;
+}
+button{
+	width: 25%;
+	margin-bottom: 0.4rem !important;
+}
